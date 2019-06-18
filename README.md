@@ -1,2 +1,0 @@
-# StringAndSortOperationsOnReactSandbox
-Created with CodeSandbox
